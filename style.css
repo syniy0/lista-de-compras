@@ -7,7 +7,93 @@
 }
 
 .cabeçalho-imagem{
-    s
+    display:block;
+        margin:auto;
+    height: 220px;
+    
 }
 
-    
+.produtos-de-limpeza{
+    color: #273DDF;
+    margin: 20px;
+
+}
+
+.produtos-de-limpeza-titulo{
+    font-family:'Inter', sans-serif ;
+    font-size: 48px;
+}
+.produtos-de-limpeza-itens{
+    font-family:'Inter', sans-serif ;
+    font-weight: 400;
+    font-size: 32px;
+
+}
+
+.higiene-pessoal{
+    color: #E73434;
+    margin: 20px;
+
+}
+
+.higiene-pessoal{
+    font-family:'Inter', sans-serif ;
+    font-size: 48px;
+}
+.higiene-pessoal{
+    font-family:'Inter', sans-serif ;
+    font-weight: 400;
+    font-size: 32px;
+
+}
+
+.açougue{
+    color: #F119F5;
+    margin: 20px;
+
+}
+
+.açougue{
+    font-family:'Inter', sans-serif ;
+    font-size: 48px;
+}
+.açougue{
+    font-family:'Inter', sans-serif ;
+    font-weight: 400;
+    font-size: 32px;
+
+}
+
+.feira{
+    color: #BECD12;
+    margin: 20px;
+
+}
+
+.feira{
+    font-family:'Inter', sans-serif ;
+    font-size: 48px;
+}
+.feira{
+    font-family:'Inter', sans-serif ;
+    font-weight: 400;
+    font-size: 32px;
+
+}
+
+.mercearia{
+    color: #DC7516;
+    margin: 20px;
+
+}
+
+.mercearia{
+    font-family:'Inter', sans-serif ;
+    font-size: 48px;
+}
+.mercearia{
+    font-family:'Inter', sans-serif ;
+    font-weight: 400;
+    font-size: 32px;
+
+}
